@@ -91,6 +91,19 @@ Notes
 
 ⸻
 
+---
+
+## Screenshots
+
+### Main Dashboard
+![Main Dashboard](screenshots/main-dashboard.png)
+
+### Display Class List
+![Display Class List](screenshots/display-classlist.png)
+
+### Student View – Display Classes
+![Student Display Classes](screenshots/student-displayclass.png)
+
 Author
 
 Palash Doshi
